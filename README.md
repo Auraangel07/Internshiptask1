@@ -47,7 +47,7 @@ This project focuses on **cleaning and preprocessing the Netflix Titles dataset*
 
 Here’s a glimpse of the cleaned data. Notice the NaNs waiting to be replaced and the general structure pre-cleanup.
 
-![Cleaned Dataset]("Screenshot%%2025-06-23%130642.png")
+![Cleaned Dataset]("Cleaned_dataset.png")
 
 ---
 
