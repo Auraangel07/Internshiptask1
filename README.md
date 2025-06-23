@@ -47,7 +47,7 @@ This project focuses on **cleaning and preprocessing the Netflix Titles dataset*
 
 Here’s a glimpse of the cleaned data. Notice the NaNs waiting to be replaced and the general structure pre-cleanup.
 
-![Cleaned Dataset](Screenshot%202025-06-23%20130642.png)
+![Cleaned Dataset]("Screenshot%%2025-06-23%130642.png")
 
 ---
 
@@ -55,7 +55,7 @@ Here’s a glimpse of the cleaned data. Notice the NaNs waiting to be replaced a
 
 No more missing values — just clean, tight data ready for analysis.
 
-![Dataset Info](Screenshot%202025-06-23%20130657.png)
+![Dataset Info]("Screenshot%2025-06-23%130657.png")
 
 ---
 
@@ -64,7 +64,7 @@ No more missing values — just clean, tight data ready for analysis.
 TV Shows and Movies face off in this pie chart.  
 Turns out, Netflix *is* still more about movies!
 
-![Netflix Content Pie Chart](Screenshot%202025-06-23%20130706.png)
+![Netflix Content Pie Chart]("Screenshot%2025-06-23%130706.png")
 
 ---
 
@@ -98,7 +98,7 @@ What followed was a digital decluttering — Marie Kondo would be proud.
 - Python 🐍  
 - Pandas 📊  
 - Google Colab 🧠  
-- Matplotlib & Seaborn (for optional visuals)
+- Matplotlib 
 
 ---
 
